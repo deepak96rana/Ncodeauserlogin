@@ -20,7 +20,7 @@ function App() {
       <Route path='/details' element={<Details />} />
       <Route path='/admin' element={<Admin />} />
 
-      <Route path='' element={<Error />} />
+      <Route path='*' element={<Error />} />
     </Routes>
     </BrowserRouter>
   </>
