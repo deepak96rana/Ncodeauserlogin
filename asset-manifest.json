@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ncodeauserlogin/static/css/main.bfd82c36.css",
+    "main.js": "/Ncodeauserlogin/static/js/main.18694e2c.js",
+    "static/js/787.83fdf458.chunk.js": "/Ncodeauserlogin/static/js/787.83fdf458.chunk.js",
+    "index.html": "/Ncodeauserlogin/index.html",
+    "main.bfd82c36.css.map": "/Ncodeauserlogin/static/css/main.bfd82c36.css.map",
+    "main.18694e2c.js.map": "/Ncodeauserlogin/static/js/main.18694e2c.js.map",
+    "787.83fdf458.chunk.js.map": "/Ncodeauserlogin/static/js/787.83fdf458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfd82c36.css",
+    "static/js/main.18694e2c.js"
+  ]
+}
